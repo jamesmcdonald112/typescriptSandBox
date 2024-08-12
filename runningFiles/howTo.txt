@@ -1,0 +1,4 @@
+- File is `.ts`
+- `tsc` compiles the file and creates a `.js` version of the file.
+- In the terminal, use `node {filename}.js` to run the file
+
