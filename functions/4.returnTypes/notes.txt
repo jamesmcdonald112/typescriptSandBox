@@ -1,0 +1,1 @@
+Typescript can infer a return types value based on the type returned from the funciton.
