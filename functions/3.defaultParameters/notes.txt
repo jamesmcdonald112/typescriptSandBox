@@ -1,0 +1,1 @@
+This is basically a cleaner version of optianl paramteres. Assign a parameter a default value and TypeScript with set the variable type to be the same as the default value's type

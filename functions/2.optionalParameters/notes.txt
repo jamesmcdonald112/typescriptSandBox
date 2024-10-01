@@ -1,0 +1,1 @@
+TypeScript normall gives an error if we don't provide a value for all arguments in a function. If we would like to run a function without an arguement we use optional parameters. This is indicated with a `?` after its name.

@@ -1,0 +1,1 @@
+In JavaScript, functions can be passed any type as an agrument, which can lead to erros. It is possible to add some error hadnling be it can be cumbersome. With TypeScript, the type can be set for the parameter.

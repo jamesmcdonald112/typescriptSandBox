@@ -13,4 +13,3 @@ onOrOff = false;
 let mustBeAString;
 mustBeAString = 'Catdog';
 // mustBeAString = 1337; this will cause an error.
-console.log('Working');
