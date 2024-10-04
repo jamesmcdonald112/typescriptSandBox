@@ -1,0 +1,3 @@
+- The TypeScript type annotation for array types is fairly straightforward: we put [] after the element type
+
+- An Alternative is to use the Array<T> syntax, where T stands for Type

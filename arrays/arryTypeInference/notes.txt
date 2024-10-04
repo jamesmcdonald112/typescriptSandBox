@@ -1,0 +1,1 @@
+- When you initialise a variable with what could be an array or a tuple, TypeScript will always go with the least restrictive option.

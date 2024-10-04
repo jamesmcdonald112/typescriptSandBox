@@ -1,0 +1,10 @@
+- In typescript, when an array is typed iwth elements of spefic types, it is called a tuple.
+
+- Tuples specify both the lengths and the orders of compatable tuples.
+
+- Tuples Vs. Arrays. 
+    In TypeScript, an array is a collection of values of the same type (although you can create arrays that allow multiple types with untion types). It is flexible in terms of length, and the types of elements are usually homogeneous (all elements are the same type).
+    A tuple is a fixed-size collection where each element has a specific type, and the types of the elements can differ.
+
+
+- In TypeScript, tuples and arrays are not compatable.

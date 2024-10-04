@@ -1,0 +1,1 @@
+- Return types can be explicitly set using type annotation after the closing parenthesis of the method signature

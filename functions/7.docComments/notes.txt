@@ -1,0 +1,1 @@
+- Like Java, TypeScript uses doc comments to describe the purpose of functions
