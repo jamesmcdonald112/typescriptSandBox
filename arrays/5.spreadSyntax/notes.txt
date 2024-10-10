@@ -1,0 +1,4 @@
+- TypeScript’s tuples work well with JavaScript’s spread syntax
+- Spread syntax is useful for functions that take multiple arguments.
+- It allows you to expand arrays, tuples, or objects into individual elements or properties.
+- Spread syntax is denoted using `...` before the variable name. For example, `...numbers`.
