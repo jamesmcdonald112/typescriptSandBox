@@ -1,0 +1,3 @@
+- Use `?` to show that a propertity can be undefined
+- Use `!` to show that a propertity will evenutally be initialised before being accessed.
+- By default, properties and methods are public (when declared without an access modifier)

@@ -35,9 +35,8 @@ let spliceArray = constructorArray.splice(3, constructorArray.length);
 // constructor array now holds = [ 0, 0, 0 ];
 // Splice can aso add elements anywhere into an array. The 0 means delete 0 elements.
 petNames.splice(1, 0, "Henry");
-// Slice - copies without modifying the orignal array
+// Slice - copies without modifying the orignal array. Exclusive.
 let firstCats = petNames.slice(0, 2);
-console.log(firstCats);
 // Sorting - Converts elements to strings and sorts them lexiographically.
 let randomNums = [4, 3, 2, 11]; // When sorted, 11 should be at the end
 randomNums.sort(); // However, the result is [ 11, 2, 3, 4 ]
