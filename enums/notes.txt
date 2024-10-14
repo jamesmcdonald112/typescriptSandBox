@@ -1,0 +1,1 @@
+- Enums are a special class that represents a group of constants.
