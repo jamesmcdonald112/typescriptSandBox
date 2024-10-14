@@ -30,4 +30,4 @@ var Days;
 })(Days || (Days = {}));
 let toyota = new Truck(2021, Doors.ThreeDoor);
 console.log(toyota.toString());
-console.log(Doors[3]);
+let doors = Doors[3]; // ThreeDoor.

@@ -1,0 +1,16 @@
+- Synchronous code
+    - One step at a time
+    - Single Threaded
+    - All the lines of code written in all the other files are Synchronous.
+
+- Asynchronous
+    - More than one activity running at the same time
+    - Multithreaded.
+
+- Javascript is single threaded, which is a limitation.
+    - Impact of this limitation can be reduced using events or callbacks.
+
+- A promise represents the result of an asynchronous operation. There are three states:
+    - Pending
+    - Fulfilled: with a value
+    - Rejected: with a response.
